@@ -1,4 +1,4 @@
-Cardboard Home
+Google Cardboard App Launcher
 =============
 
 ![Logo](app/src/main/res/drawable-xxxhdpi/icon_fullres.png?raw=true "Cardboard Home")
