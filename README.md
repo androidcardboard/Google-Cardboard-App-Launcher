@@ -3,7 +3,7 @@ Google Cardboard App Launcher
 
 ![Logo](app/src/main/res/drawable-xxxhdpi/icon_fullres.png?raw=true "Cardboard Home")
 
- Cardboard App Launcheris an Android app launcher designed for use with the Google Cardboard virtual reality head mounted display. Cardboard App Launcher is intended to replace a regular launcher when the user places their device inside a Google Cardboard viewer.
+ Cardboard App Launcher is an Android app launcher designed for use with the Google Cardboard virtual reality head mounted display. Cardboard App Launcher is intended to replace a regular launcher when the user places their device inside a Google Cardboard viewer.
 
 Unlike a regular Android launcher, Cardboard App Launcher uses side by side 3D to display a launcher interface that is usable while the phone is placed in Google Cardboard. The launcher can be controlled simply by the user moving his or her head and "clicking" with the magnetic ring or "hovering" over an icon to launch the corresponding application. Cardboard App Launcher attempts to only display apps that are compatible with Google Cardboard, but in the case that it fails to list a specific app, the user can select it in the settings menus. When the user exits Cardboard Home, it brings them back to their regular launcher, making for a fairly seem less experience.
 This project enables users to know about the use of VR Cardboard and its overall functioning. 
